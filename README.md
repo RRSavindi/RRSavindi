@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Raneesha Savindi 👋
 
-<!--
-**RRSavindi/RRSavindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Undergraduate | 💻 Software Engineering | 🌐 Frontend & Full-Stack Development | 🎨 UI/UX
 
-Here are some ideas to get you started:
+I'm an IT undergraduate at the Institute of Technology, University of Moratuwa, with an interest in building practical, user-friendly web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm exploring software engineering across frontend, backend, full-stack development, and UI/UX — with a focus on continuously improving my technical and problem-solving skills through hands-on projects.
+
+### 🚀 What I'm Interested In
+
+* Software Engineering
+* Full-Stack Web Development
+* Frontend Development
+* UI/UX Design
+* Web & Mobile Application Development
+* Learning new technologies and building real-world projects
+
